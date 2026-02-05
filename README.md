@@ -21,13 +21,11 @@ The repository is designed to support:
 ```
 ├── Rainfall analysis/
 │   ├── rainfall_trend_analysis.ipynb
-│   ├── plots/
 │   └── README.md
 │
 ├── Soedimentation_Analysis/
 │   ├── sedimentation_analysis.ipynb
-│   ├── field_data/
-│   ├── plots/
+│   ├── field_data.xls
 │   └── README.md
 │
 ├── data/
