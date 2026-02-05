@@ -19,12 +19,12 @@ The repository is designed to support:
 ## 📂 Repository Structure
 
 ```
-├── rainfall_trend_analysis/
+├── Rainfall analysis/
 │   ├── rainfall_trend_analysis.ipynb
 │   ├── plots/
 │   └── README.md
 │
-├── sedimentation_analysis_LBS_Gabions/
+├── Soedimentation_Analysis/
 │   ├── sedimentation_analysis.ipynb
 │   ├── field_data/
 │   ├── plots/
